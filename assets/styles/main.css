@@ -7,7 +7,14 @@ body {
     margin: 0;
 }
 
-a { text-decoration: none }
+a {
+    text-decoration: none;
+    color: #00cc99;
+}
+
+a:hover { color: #009a74 }
+
+a:visited { color: #757575 }
 
 section {
     max-width: 45rem;
