@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    color: #323648;
+    background: #fff;
+    border-top: 10px solid #00cc99;
+    font-family: Helvetica;
+}
+
+a { text-decoration: none }
+
+section {
+    max-width: 45rem;
+    margin: 0 auto;
+    padding: 0 2.5rem
+}
+
+h2,
+h1 { font-weight: 800 }
+
+h1 { font-size: 3.125rem }
+
+h2 { font-size: 2rem }
+
+li,
+p {
+    line-height: 1.9;
+    font-size: 1.5rem;
+}
